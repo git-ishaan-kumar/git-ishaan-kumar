@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋, I'm Ishaan
 
-<!--
-**git-ishaan-kumar/git-ishaan-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to look around my projects and code.
 
-Here are some ideas to get you started:
+### My Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,sqlite,c,html,css,js" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Courses I've finished
+* **CS50x** — Harvard's Introduction to Computer Science 🎓
+
+### Hobbies
+* 💻 Coding
+* 🤖 Arduino & Electronics
+* 🧬 Science Olympiad
+* ⚙️ Robotics
+* 🎹 Piano
+* ⚽ Soccer
+* 🗣️ Public Speaking
+* 🏓 Table Tennis
