@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Hi 👋, I'm Ishaan
 
 ### My skills
