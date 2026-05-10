@@ -1,4 +1,5 @@
 # Hi 👋, I'm Ishaan
+Feel free to look around my projects and code.
 
 ### My skills
 <p align="left">
