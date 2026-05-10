@@ -1,14 +1,16 @@
+---
+layout: default
+---
+
 # Hi 👋, I'm Ishaan
 
-Feel free to look around my projects and code.
-
-### My Skills
+### My skills
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,flask,sqlite,c,html,css,js" />
 </p>
 
 ### Courses I've finished
-* **CS50x** — Harvard's Introduction to Computer Science 🎓
+* 🎓 **CS50x** — Harvard's Introduction to Computer Science
 
 ### Hobbies
 * 💻 Coding
