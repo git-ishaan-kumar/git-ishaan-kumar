@@ -7,7 +7,8 @@ Feel free to look around my projects and code.
 </p>
 
 ### Courses I've finished
-* 🎓 **CS50x** — Harvard's Introduction to Computer Science
+* 💻 [**CS50x**](https://pll.harvard.edu/course/cs50-introduction-computer-science) — Harvard University
+* 🤖 [**Prompt Engineering for Developers**](https://www.deeplearning.ai/courses/chatgpt-prompt-eng) — DeepLearning.AI & OpenAI
 
 ### Hobbies
 * 💻 Coding
