@@ -25,3 +25,7 @@ Feel free to look around my projects and code.
 * ⚽ Soccer
 * 🗣️ Public Speaking
 * 🏓 Table Tennis
+
+### Socials & Links
+* ▶ **YouTube:** https://www.youtube.com/@ishaan.kumar0
+* 💬 **Discord:** [@ishaan.kumar0](https://discord.gg/vRjzUaCT3)
