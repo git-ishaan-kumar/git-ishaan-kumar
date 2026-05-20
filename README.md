@@ -3,7 +3,7 @@ Feel free to look around my projects and code.
 
 ### My skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,sqlite,c,html,css,js,linux" />
+  <img src="https://skillicons.dev/icons?i=python,sqlite,c,html,css,js,linux" />
 </p>
 
 ### My Projects
