@@ -1,9 +1,25 @@
 # Hi 👋, I'm Ishaan
 Feel free to look around my projects and code.
 
-### My skills
+### My Skills & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,c,html,css,js,linux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Sublime%20Text-575757?style=for-the-badge&logo=sublimetext&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ### My Projects
@@ -11,12 +27,12 @@ Feel free to look around my projects and code.
 * [**Pooja Room**](https://github.com/git-ishaan-kumar/pooja-room) — Pooja Room is a digital library for Hindu prayers. Access prayers across 19 different languages with YouTube audios.
 * [**Archived Projects**](https://github.com/git-ishaan-kumar/archived-projects) — This repo contains old data science and ML projects from my previous GitHub account.
 
-### Courses I've finished
+### Courses I've Finished
 * [**CS50x**](https://pll.harvard.edu/course/cs50-introduction-computer-science) — Harvard University
 * [**Prompt Engineering for Developers**](https://www.deeplearning.ai/courses/chatgpt-prompt-eng) — OpenAI
 * [**Building Systems with the ChatGPT API**](https://www.deeplearning.ai/courses/chatgpt-building-system) — OpenAI
 
-### Hobbies
+### My Hobbies & Interests
 * 💻 Coding
 * 🤖 Arduino & Electronics
 * 🧬 Science Olympiad
