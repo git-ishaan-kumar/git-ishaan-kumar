@@ -7,6 +7,7 @@ Feel free to look around my projects and code.
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E25A5F?style=for-the-badge&logo=pydantic&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -32,6 +33,7 @@ Feel free to look around my projects and code.
 * [**CS50x**](https://pll.harvard.edu/course/cs50-introduction-computer-science) — Harvard University
 * [**Prompt Engineering for Developers**](https://www.deeplearning.ai/courses/chatgpt-prompt-eng) — OpenAI
 * [**Building Systems with the ChatGPT API**](https://www.deeplearning.ai/courses/chatgpt-building-system) — OpenAI
+* [**Pydantic for LLM Workflows**](https://www.deeplearning.ai/courses/pydantic-for-llm-workflows) — DeepLearning.AI
 
 ### My Hobbies & Interests
 * 💻 Coding
