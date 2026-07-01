@@ -25,6 +25,7 @@ Feel free to look around my projects and code.
 </p>
 
 ### My Projects
+* [**Notes to Flashcards**](https://github.com/git-ishaan-kumar/notes-to-flashcards) — An AI-powered study tool that converts raw notes and files into customized flashcards, which can be exported directly to platforms like Quizlet and Knowt.
 * [**Taco Bell Order Bot**](https://github.com/git-ishaan-kumar/tacobell-order-bot) — A simulation of a chat bot that takes Taco Bell orders. Users can add, remove, and edit items on their order using a mock Taco Bell menu.
 * [**Pooja Room**](https://github.com/git-ishaan-kumar/pooja-room) — Pooja Room is a digital library for Hindu prayers. Access prayers across 19 different languages with YouTube audios.
 * [**Archived Projects**](https://github.com/git-ishaan-kumar/archived-projects) — This repo contains old data science and ML projects from my previous GitHub account.
