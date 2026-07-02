@@ -47,5 +47,5 @@ Feel free to look around my projects and code.
 * 🏓 Table Tennis
 
 ### Socials & Links
-* **YouTube:** https://www.youtube.com/@ishaan.kumar0
+* **YouTube:** [https://www.youtube.com/@ishaan.kumar0](https://www.youtube.com/@ishaan.kumar0)
 * **Discord:** [@ishaan.kumar0](https://discord.com)
