@@ -1,5 +1,8 @@
 title: Ishaan Kumar
+description: "Feel free to look around my projects and code."
 show_downloads: false
+repository_url: https://github.com/git-ishaan-kumar
+
 plugins:
   - jekyll-remote-theme
 remote_theme: pages-themes/leap-day
