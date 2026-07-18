@@ -41,7 +41,7 @@ Feel free to look around my projects and code.
 ### 👤 My Hobbies & Interests
 * 💻 Coding
 * 🤖 Arduino & Electronics
-* 🧬 Science Olympiad
+* 🧬 Science Competitions and Science Fairs
 * ⚙️ Robotics
 * 🎹 Piano
 * ⚽ Soccer
