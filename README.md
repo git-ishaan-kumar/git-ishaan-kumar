@@ -25,18 +25,18 @@ Feel free to look around my projects and code.
 </p>
 
 ### 🚀 Featured Projects
-* [**Sixty Second News**](https://github.com/git-ishaan-kumar/sixty-second-news) — A news app that provides fast summaries and headlines categorized by topic, allowing users to swipe through breaking news headlines and view original sources.
-* [**Notes to Flashcards**](https://github.com/git-ishaan-kumar/notes-to-flashcards) — An AI-powered study tool that converts raw notes and files into customized flashcards, which can be exported directly to platforms like Quizlet and Knowt.
+* <a href="https://github.com/git-ishaan-kumar/sixty-second-news" target="_blank">**Sixty Second News**</a> — A news app that provides fast summaries and headlines categorized by topic, allowing users to swipe through breaking news headlines and view original sources.
+* <a href="https://github.com/git-ishaan-kumar/notes-to-flashcards" target="_blank">**Notes to Flashcards**</a> — An AI-powered study tool that converts raw notes and files into customized flashcards, which can be exported directly to platforms like Quizlet and Knowt.
 
 ### 🧪 Experimental Projects and Archives
-* [**Taco Bell Order Bot**](https://github.com/git-ishaan-kumar/tacobell-order-bot) — A simulation of a chat bot that takes Taco Bell orders. Users can add, remove, and edit items on their order using a mock Taco Bell menu.
-* [**Archived Projects**](https://github.com/git-ishaan-kumar/archived-projects) — This repo contains old data science and ML projects from my previous GitHub account.
+* <a href="https://github.com/git-ishaan-kumar/tacobell-order-bot" target="_blank">**Taco Bell Order Bot**</a> — A simulation of a chat bot that takes Taco Bell orders. Users can add, remove, and edit items on their order using a mock Taco Bell menu.
+* <a href="https://github.com/git-ishaan-kumar/archived-projects" target="_blank">**Archived Projects**</a> — This repo contains old data science and ML projects from my previous GitHub account.
 
 ### 💻 Courses I've Finished
-* [**CS50x**](https://pll.harvard.edu/course/cs50-introduction-computer-science) — Harvard University
-* [**Prompt Engineering for Developers**](https://www.deeplearning.ai/courses/chatgpt-prompt-eng) — OpenAI
-* [**Building Systems with the ChatGPT API**](https://www.deeplearning.ai/courses/chatgpt-building-system) — OpenAI
-* [**Pydantic for LLM Workflows**](https://www.deeplearning.ai/courses/pydantic-for-llm-workflows) — DeepLearning.AI
+* <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science" target="_blank">**CS50x**</a> — Harvard University
+* <a href="https://www.deeplearning.ai/courses/chatgpt-prompt-eng" target="_blank">**Prompt Engineering for Developers**</a> — OpenAI
+* <a href="https://www.deeplearning.ai/courses/chatgpt-building-system" target="_blank">**Building Systems with the ChatGPT API**</a> — OpenAI
+* <a href="https://www.deeplearning.ai/courses/pydantic-for-llm-workflows" target="_blank">**Pydantic for LLM Workflows**</a> — DeepLearning.AI
 
 ### 👤 My Hobbies & Interests
 * 💻 Coding
@@ -49,5 +49,5 @@ Feel free to look around my projects and code.
 * 🏓 Table Tennis
 
 ### 📞 Socials & Links
-* **YouTube:** [https://www.youtube.com/@ishaan.kumar0](https://www.youtube.com/@ishaan.kumar0)
-* **Discord:** [@ishaan.kumar0](https://discord.com)
+* **YouTube:** <a href="https://www.youtube.com/@ishaan.kumar0" target="_blank">https://www.youtube.com/@ishaan.kumar0</a>
+* **Discord:** <a href="https://discord.com" target="_blank">@ishaan.kumar0</a>
