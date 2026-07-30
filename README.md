@@ -27,7 +27,6 @@ Feel free to look around my projects and code.
 ### 🚀 Featured Projects
 * <a href="https://github.com/git-ishaan-kumar/sixty-second-news" target="_blank">**Sixty Second News**</a> — A news app that provides fast summaries and headlines categorized by topic, allowing users to swipe through breaking news headlines and view original sources.
 * <a href="https://github.com/git-ishaan-kumar/notes-to-flashcards" target="_blank">**Notes to Flashcards**</a> — An AI-powered study tool that converts raw notes and files into customized flashcards, which can be exported directly to platforms like Quizlet and Knowt.
-* <a href="https://github.com/git-ishaan-kumar/tacobell-order-bot" target="_blank">**Taco Bell Order Bot**</a> — A simulation of a chat bot that takes Taco Bell orders. Users can add, remove, and edit items on their order using a mock Taco Bell menu.
 
 ### 💻 Courses I've Finished
 * <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science" target="_blank">**CS50x**</a> — Harvard University
