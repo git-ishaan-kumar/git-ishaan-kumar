@@ -43,7 +43,3 @@ Feel free to look around my projects and code.
 * ⚽ Soccer
 * 🗣️ Public Speaking
 * 🏓 Table Tennis
-
-### 📞 Socials & Links
-* **YouTube:** <a href="https://www.youtube.com/@ishaan.kumar0" target="_blank">https://www.youtube.com/@ishaan.kumar0</a>
-* **Discord:** <a href="https://discord.com" target="_blank">@ishaan.kumar0</a>
